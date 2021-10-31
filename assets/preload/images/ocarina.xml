@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="ocarina.png">
+	<!-- Created with Adobe Flash CS6 version 12.0.0.481 -->
+	<!-- http://www.adobe.com/products/flash.html -->
+	<SubTexture name="blue0000" x="10" y="10" width="127" height="126"/>
+	<SubTexture name="green0000" x="147" y="10" width="127" height="126"/>
+	<SubTexture name="purple0000" x="10" y="146" width="128" height="126"/>
+	<SubTexture name="red0000" x="148" y="146" width="128" height="126"/>
+</TextureAtlas>

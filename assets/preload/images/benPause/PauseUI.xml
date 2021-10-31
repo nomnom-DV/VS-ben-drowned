@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="<TextureAtlas imagePath="PauseUI.png">
+	<!-- Created with Adobe Flash CS6 version 12.0.0.481 -->
+	<!-- http://www.adobe.com/products/flash.html -->
+	<SubTexture name="bluecancel0000" x="10" y="10" width="278" height="51"/>
+	<SubTexture name="bluereplay0000" x="10" y="71" width="270" height="51"/>
+	<SubTexture name="blueresume0000" x="10" y="132" width="267" height="51"/>
+	<SubTexture name="cancelyellow0000" x="10" y="193" width="291" height="51"/>
+	<SubTexture name="yellowreplay0000" x="10" y="254" width="270" height="51"/>
+	<SubTexture name="yellowresume0000" x="10" y="315" width="267" height="51"/>
+</TextureAtlas>
+.png">
+	<!-- Created with Adobe Flash CS6 version 12.0.0.481 -->
+	<!-- http://www.adobe.com/products/flash.html -->
+	<SubTexture name="bluecancel0000" x="10" y="10" width="278" height="51"/>
+	<SubTexture name="bluereplay0000" x="10" y="71" width="270" height="51"/>
+	<SubTexture name="blueresume0000" x="10" y="132" width="267" height="51"/>
+	<SubTexture name="cancelyellow0000" x="10" y="193" width="291" height="51"/>
+	<SubTexture name="yellowreplay0000" x="10" y="254" width="270" height="51"/>
+	<SubTexture name="yellowresume0000" x="10" y="315" width="267" height="51"/>
+</TextureAtlas>
